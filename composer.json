@@ -1,0 +1,21 @@
+{
+  "name": "ofershap/hebrew-slugify-wp",
+  "description": "WordPress plugin to transliterate Hebrew post/page titles into clean, URL-safe slugs",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ofer Shapira",
+      "homepage": "https://github.com/ofershap"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6 || ^10.0 || ^11.0"
+  },
+  "autoload-dev": {
+    "classmap": ["tests/"]
+  }
+}
