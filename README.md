@@ -1,11 +1,11 @@
-# hebrew-slugify-wp
+# Hebrew Slugify WP — WordPress Plugin for Hebrew URL Transliteration
 
 [![CI](https://github.com/ofershap/hebrew-slugify-wp/actions/workflows/ci.yml/badge.svg)](https://github.com/ofershap/hebrew-slugify-wp/actions/workflows/ci.yml)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://www.php.net/)
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-21759b.svg)](https://wordpress.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Automatically transliterate Hebrew post and page titles into clean, URL-safe slugs. Works with Gutenberg, Elementor, WooCommerce, and any theme.
+A WordPress plugin that automatically transliterates Hebrew post and page titles into clean, URL-safe slugs. Works with Gutenberg, Elementor, WooCommerce, and any theme.
 
 ```
 Before: /שלום-עולם/  →  /%D7%A9%D7%9C%D7%95%D7%9D-%D7%A2%D7%95%D7%9C%D7%9D/
